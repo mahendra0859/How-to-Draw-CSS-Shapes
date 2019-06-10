@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #fbb12f;
+}
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+.trapezium {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 0;
+  width: 200px;
+  border-bottom: 200px solid white;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+}

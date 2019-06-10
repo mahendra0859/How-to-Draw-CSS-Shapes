@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  background-color: #fbb12f;
+}
+.container {
+  margin: auto;
+  color: white;
+}

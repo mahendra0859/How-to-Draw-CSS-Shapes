@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #fbb12f;
+}
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.moon {
+  background-color: transparent;
+  height: 200px;
+  width: 200px;
+  box-shadow: -20px 20px 0 15px white;
+  border-radius: 50%;
+}

@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: #fbb12f;
+}
+.leaf {
+  height: 250px;
+  width: 250px;
+  background-color: white;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 250px 0;
+}
